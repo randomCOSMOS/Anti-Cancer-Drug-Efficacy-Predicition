@@ -1,0 +1,4 @@
+drug_name,synonym,IC50,AUC,PPC,cell_lines_screened,screening_site
+Tanespimycin,17-AAG,0,0,0,949,SANGER
+Saracatinib,AZD-0530,0,0,0,404,MGH
+Erlotinib,RG-1415,0,0,0,
